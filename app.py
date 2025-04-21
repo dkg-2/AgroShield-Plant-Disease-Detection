@@ -40,7 +40,7 @@ interface = gr.Interface(
     fn=predict,
     inputs=gr.Image(type="pil"),
     outputs=gr.Label(num_top_classes=5),
-    title="🌿 Plant Disease Detection",
+    title="🌿 Agroshield-Plant Disease Detection",
     description="Upload a plant leaf image and get the predicted disease class. Model trained on PlantVillage dataset."
 )
 
