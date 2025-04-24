@@ -1,0 +1,202 @@
+{
+  "Apple___Apple_scab": {
+    "cause": "Venturia inaequalis (fungus)",
+    "symptoms": "Olive-green or black velvety spots on leaves and fruit",
+    "precaution": "Rake fallen leaves, prune for air circulation",
+    "prevention": "Use fungicides, resistant cultivars",
+    "type": "Fungal",
+    "severity": "High"
+  },
+  "Apple___Black_rot": {
+    "cause": "Botryosphaeria obtusa (fungus)",
+    "symptoms": "Fruit rot with concentric rings, cankers on branches",
+    "precaution": "Remove mummified fruits, sanitize pruning tools",
+    "prevention": "Prune infected limbs, fungicide sprays, proper orchard hygiene",
+    "type": "Fungal",
+    "severity": "High"
+  },
+  "Apple___Cedar_apple_rust": {
+    "cause": "Gymnosporangium juniperi-virginianae (fungus)",
+    "symptoms": "Yellow-orange spots on leaves, fruit deformities",
+    "precaution": "Remove nearby cedar trees if possible",
+    "prevention": "Apply fungicides, plant resistant apple varieties",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot": {
+    "cause": "Cercospora zeae-maydis (fungus)",
+    "symptoms": "Long, narrow, grayish-brown lesions between veins",
+    "precaution": "Remove debris, use proper tillage",
+    "prevention": "Resistant hybrids, fungicide application, crop rotation",
+    "type": "Fungal",
+    "severity": "High"
+  },
+  "Corn_(maize)___Common_rust_": {
+    "cause": "Puccinia sorghi (fungus)",
+    "symptoms": "Reddish-brown pustules on both leaf surfaces",
+    "precaution": "Avoid planting in high humidity areas",
+    "prevention": "Use resistant varieties, timely fungicide sprays",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "cause": "Exserohilum turcicum (fungus)",
+    "symptoms": "Long, cigar-shaped gray-green lesions on leaves",
+    "precaution": "Avoid overhead irrigation",
+    "prevention": "Resistant varieties, fungicide treatment, rotate crops",
+    "type": "Fungal",
+    "severity": "High"
+  },
+  "Grape___Black_rot": {
+    "cause": "Guignardia bidwellii (fungus)",
+    "symptoms": "Dark brown leaf spots, shriveled black fruits",
+    "precaution": "Remove mummified fruit and fallen leaves",
+    "prevention": "Fungicide sprays, pruning for air circulation",
+    "type": "Fungal",
+    "severity": "High"
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "cause": "Fungal complex (Phaeomoniella chlamydospora, Phaeoacremonium spp.)",
+    "symptoms": "Tiger-striped leaves, black spots on berries, vine decline",
+    "precaution": "Avoid wounding during pruning",
+    "prevention": "Use clean planting material, apply fungicides in early stages",
+    "type": "Fungal",
+    "severity": "Critical"
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "cause": "Pseudocercospora vitis (fungus)",
+    "symptoms": "Brown, irregular spots that merge and cause leaf death",
+    "precaution": "Improve drainage and spacing",
+    "prevention": "Apply fungicides, avoid overhead irrigation",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "cause": "Candidatus Liberibacter spp. (bacteria)",
+    "symptoms": "Yellow shoots, blotchy mottling on leaves, small & bitter fruits",
+    "precaution": "Monitor psyllid population, remove infected trees early",
+    "prevention": "Control psyllid vector, resistant rootstocks, quarantine",
+    "type": "Bacterial",
+    "severity": "Critical"
+  },
+  "Peach___Bacterial_spot": {
+    "cause": "Xanthomonas arboricola pv. pruni (bacteria)",
+    "symptoms": "Small, water-soaked lesions on leaves, fruit, and twigs",
+    "precaution": "Avoid overhead irrigation",
+    "prevention": "Copper sprays, disease-free planting stock, resistant varieties",
+    "type": "Bacterial",
+    "severity": "High"
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "cause": "Xanthomonas campestris pv. vesicatoria (bacteria)",
+    "symptoms": "Water-soaked lesions on leaves and fruit that turn dark and scabby",
+    "precaution": "Use clean seeds and tools, avoid working when plants are wet",
+    "prevention": "Copper-based bactericides, resistant varieties, crop rotation",
+    "type": "Bacterial",
+    "severity": "High"
+  },
+  "Potato___Early_blight": {
+    "cause": "Alternaria solani (fungus)",
+    "symptoms": "Dark spots with concentric rings on older leaves",
+    "precaution": "Practice crop rotation, remove plant debris",
+    "prevention": "Use fungicides, plant resistant varieties",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Potato___Late_blight": {
+    "cause": "Phytophthora infestans (fungus)",
+    "symptoms": "Brown lesions on leaves and stems, white mold growth under leaves",
+    "precaution": "Ensure good drainage, avoid overhead irrigation",
+    "prevention": "Fungicide treatment, certified seed potatoes, destroy infected plants",
+    "type": "Fungal",
+    "severity": "Critical"
+  },
+  "Squash___Powdery_mildew": {
+    "cause": "Podosphaera xanthii (fungus)",
+    "symptoms": "White powdery coating on leaves and stems",
+    "precaution": "Avoid excess nitrogen, promote airflow",
+    "prevention": "Fungicides, resistant cultivars, early detection",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Strawberry___Leaf_scorch": {
+    "cause": "Diplocarpon earliana (fungus)",
+    "symptoms": "Purple spots on leaves merging into scorched areas",
+    "precaution": "Remove infected foliage",
+    "prevention": "Proper spacing, resistant varieties, regular fungicide use",
+    "type": "Fungal",
+    "severity": "High"
+  },
+  "Tomato___Bacterial_spot": {
+    "cause": "Xanthomonas campestris (bacteria)",
+    "symptoms": "Small, dark, water-soaked spots on leaves, stems, and fruit",
+    "precaution": "Avoid overhead watering, use disease-free seeds",
+    "prevention": "Copper-based fungicides, crop rotation, resistant varieties",
+    "type": "Bacterial",
+    "severity": "High"
+  },
+  "Tomato___Early_blight": {
+    "cause": "Alternaria solani (fungus)",
+    "symptoms": "Dark spots with concentric rings on lower leaves, yellowing around spots",
+    "precaution": "Remove plant debris, avoid wet foliage",
+    "prevention": "Use resistant varieties, apply fungicides, maintain proper spacing",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Tomato___Late_blight": {
+    "cause": "Phytophthora infestans (fungus)",
+    "symptoms": "Water-soaked spots turning brown with white fungal growth under leaves",
+    "precaution": "Avoid watering late in the day, monitor humidity",
+    "prevention": "Use fungicides (chlorothalonil or mancozeb), destroy infected plants",
+    "type": "Fungal",
+    "severity": "Critical"
+  },
+  "Tomato___Leaf_Mold": {
+    "cause": "Passalora fulva (fungus)",
+    "symptoms": "Yellow spots on top of leaves, with olive-green mold underneath",
+    "precaution": "Keep greenhouse well-ventilated, avoid overhead watering",
+    "prevention": "Fungicides, resistant varieties, sanitation of tools and surfaces",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "cause": "Septoria lycopersici (fungus)",
+    "symptoms": "Small, circular spots with dark borders and gray centers on lower leaves",
+    "precaution": "Avoid overhead watering, remove infected leaves",
+    "prevention": "Fungicide application, crop rotation, resistant varieties",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Tomato___Spider_mites_Two-spotted_spider_mite": {
+    "cause": "Tetranychus urticae (insect)",
+    "symptoms": "Tiny yellow or white spots on leaves, webbing on underside, leaf drop",
+    "precaution": "Control dust, avoid plant stress",
+    "prevention": "Insecticidal soap, neem oil, predatory mites",
+    "type": "Pest",
+    "severity": "High"
+  },
+  "Tomato___Target_Spot": {
+    "cause": "Corynespora cassiicola (fungus)",
+    "symptoms": "Circular brown spots with concentric rings, leaf drop",
+    "precaution": "Ensure air circulation, avoid excess nitrogen",
+    "prevention": "Fungicides, crop rotation, resistant cultivars",
+    "type": "Fungal",
+    "severity": "Moderate"
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "cause": "Tomato Yellow Leaf Curl Virus (TYLCV)",
+    "symptoms": "Yellowing, curling of leaves, stunted growth, flower drop",
+    "precaution": "Monitor and control whiteflies",
+    "prevention": "Virus-resistant varieties, insect nets, reflective mulches",
+    "type": "Viral",
+    "severity": "Critical"
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "cause": "Tobacco Mosaic Virus (TMV)",
+    "symptoms": "Mottled yellow/green patterns, distorted leaves, stunted growth",
+    "precaution": "Disinfect tools, avoid tobacco near crops",
+    "prevention": "Use resistant varieties, remove infected plants, control aphids",
+    "type": "Viral",
+    "severity": "High"
+  }
+}
