@@ -191,7 +191,7 @@ import json
 
 # Load assets
 model = tf.keras.models.load_model('plant_disease_model.h5')
-with open('disease_info.json') as f:
+with open('diseases.json') as f:
     disease_db = json.load(f)
 
 
