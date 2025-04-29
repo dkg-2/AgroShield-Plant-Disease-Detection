@@ -47,6 +47,9 @@ This model is trained to classify plant leaves into **healthy** or **diseased** 
 
 ## 🚀 Try It Out
 
+- 📓 **Model Training Notebook (Colab)**:  
+  👉 [Open in Colab](https://colab.research.google.com/drive/1AUMOm-TUhYP_vyrCBWuwXuO9gT5OIgoK?usp=sharing)
+
 👉 **[Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/dkg-2/Agroshield_disease_prediction)**
 
 ---
