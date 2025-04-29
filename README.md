@@ -55,7 +55,7 @@ This model is trained to classify plant leaves into **healthy** or **diseased** 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/AgroShield-Plant-Disease-Detection.git
+git clone https://github.com/dkg-2/AgroShield-Plant-Disease-Detection.git
 cd AgroShield-Plant-Disease-Detection
 pip install -r requirements.txt
 python app/app.py
